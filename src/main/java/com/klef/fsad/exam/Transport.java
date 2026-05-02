@@ -33,7 +33,6 @@ public class Transport {
 
     public Transport() {
     }
-
     public Transport(String name, String date, String status, String vehicleType, double fare) {
         this.name = name;
         this.date = date;
